@@ -1,0 +1,9 @@
+Crear una aplicacion en flutter que por medio de un botn de tipo FloattinActionButton de un Scaffold
+presente en panatallka un simpleDialog con un menú de 4 opciones, identificando cada opcion con un icono
+y cada opcion debe redigir a la pagina especificada.
+Cada pagina debe decir
+
+Pagina 1: Mis contactos
+Pagina 2: Redes sociales
+Pagina 3: Estado de cuenta
+Pagina 4: Salir
