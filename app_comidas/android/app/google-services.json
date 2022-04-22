@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "782620150438",
+    "project_id": "appcompras-db787",
+    "storage_bucket": "appcompras-db787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782620150438:android:1e252a1afb87e6237c0267",
+        "android_client_info": {
+          "package_name": "com.example.app_comidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782620150438-7dl34kvkafbofhgsm2t4o9mtuvcduenu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_comidas",
+            "certificate_hash": "d727476e4abf75ab691e8bb1c009c6f4a13e1cbc"
+          }
+        },
+        {
+          "client_id": "782620150438-jkngba7077f3l87lpbs9jjn9pbd2ufhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_J4SZl8QCIw9i80A62sjHizW9NP5NdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782620150438-jkngba7077f3l87lpbs9jjn9pbd2ufhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
